@@ -1,0 +1,38 @@
+        header {
+                text-align: center;
+            }
+         
+         
+         body{
+                font-family: 'Courier New', Courier, monospace;
+                Background-color: black;
+                background-image: url(https://www.toptal.com/designers/subtlepatterns/uploads/webb-dark.png);
+                color: whitesmoke;/*font color*/
+            }
+           
+                
+            
+            img{
+                display: block;
+                /*content*/
+                border: 2px solid white; 
+                padding: 5px;
+                margin: auto;
+            }
+            a:visited{
+                color: rgb(0, 221, 255)
+            }
+            li{
+                font-style: italic;
+            }
+            li:hover{
+                font: size 105%;
+                text-decoration: underline;
+                background-color: rgb(224, 32, 32)
+            }
+            video {
+                display: block;
+                margin: 0 auto;
+              }
+        
+            
